@@ -14,3 +14,11 @@ Here is the [url link](https://www.economist.com/big-mac-index) of the Economist
 
 https://user-images.githubusercontent.com/28147353/224336853-8e40949c-3fbc-46cd-8114-244441cfc37d.mp4
 
+# Information is Beautiful Creative Challange 2023
+Here is the [Power BI interactive dashboard](https://isinkosemen.com/a_decade_of_electricity_production.html) I created for the 2023 "Information is Beautiful" creative challange. 
+
+I used [Deneb pattern fills](https://deneb-viz.github.io/pattern-fills) to represent and highlight each source for the electricity production and their share between 2010 and 2020.
+
+My interactive dashboard was included in the [interactive longlist](https://informationisbeautiful.net/visualizations/world-dataviz-prize-2023-interactives-longlist/) chosen by the jury.
+
+<img width="664" alt="Screenshot (850 corrected)" src="https://user-images.githubusercontent.com/28147353/224347262-067651a0-1982-4a11-a1ec-bfae08b9a4ee.PNG">
