@@ -22,3 +22,11 @@ I used [Deneb pattern fills](https://deneb-viz.github.io/pattern-fills) to repre
 My interactive dashboard was included in the [interactive longlist](https://informationisbeautiful.net/visualizations/world-dataviz-prize-2023-interactives-longlist/) chosen by the jury.
 
 <img width="664" alt="Screenshot (850 corrected)" src="https://user-images.githubusercontent.com/28147353/224347262-067651a0-1982-4a11-a1ec-bfae08b9a4ee.PNG">
+
+# Turkey's Ring of Fire
+
+I used USGS earthquake data for [this interactive visual](https://isinkosemen.com/turkey_ring_of_fire.html).
+
+https://user-images.githubusercontent.com/28147353/224446975-b57aae1c-9c20-4b77-86cb-bff7b07152fc.mp4
+
+
