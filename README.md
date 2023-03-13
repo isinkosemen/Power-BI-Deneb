@@ -25,7 +25,17 @@ My interactive dashboard was included in the [interactive longlist](https://info
 
 # Turkey's Ring of Fire
 
-I used USGS earthquake data for [this interactive visual](https://isinkosemen.com/turkey_ring_of_fire.html).
+This interactive Power BI Deneb custom visual shows the earthquakes which took place in Turkey between the 6th and 8th of February 2023. 
+
+Everything was created by using the Vega-Lite library.
+
+The red line shows the main fault lines in the region.
+
+Here is the link for the [pbix file] (https://github.com/isinkosemen/Power-BI-Deneb/blob/main/turkey-ring-of-fire/turkey-ring-of-fire.pbix).
+
+I downloaded the GeoJSON data from [geojson-maps.ash.ms](https://geojson-maps.ash.ms/).
+
+For earthquake locations I used [USGS earthquake data](https://earthquake.usgs.gov/earthquakes/search/). I also used «Plates and Faults layers v2» to get the coordinates of Turkey’s main fault lines from [usgs.maps.arcgis.com](https://usgs.maps.arcgis.com/home/index.html).
 
 https://user-images.githubusercontent.com/28147353/224446975-b57aae1c-9c20-4b77-86cb-bff7b07152fc.mp4
 
