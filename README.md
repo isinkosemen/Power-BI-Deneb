@@ -31,7 +31,7 @@ Everything was created by using the Vega-Lite library.
 
 The red line shows the main fault lines in the region.
 
-Here is the link for the [pbix file] (https://github.com/isinkosemen/Power-BI-Deneb/blob/main/turkey-ring-of-fire/turkey-ring-of-fire.pbix).
+Here is the link for the [pbix file](https://github.com/isinkosemen/Power-BI-Deneb/blob/main/turkey-ring-of-fire/turkey-ring-of-fire.pbix).
 
 I downloaded the GeoJSON data from [geojson-maps.ash.ms](https://geojson-maps.ash.ms/).
 
