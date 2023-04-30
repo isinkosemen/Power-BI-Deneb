@@ -2,6 +2,19 @@
 Here is a collection of my showcases that I built in Power BI with Deneb using Vega and Vega-Lite libraries.
 Feast your eyes on some of my best work.
 
+# WSJ Graphics - Payrolls and Unemployment
+Here is my recreation of the WSJ graphics about the monthly change of nonfarm payrolls, unemployment rate, and payrolls by sector based on US Labor Department data.
+
+WSJ original article: [url link](https://www.wsj.com/articles/february-jobs-report-unemployment-rate-economy-growth-2023-e4b1d318?mod=article_inline).
+
+Here is [the pbix file](https://github.com/isinkosemen/Power-BI-Deneb/blob/main/wsj-graphics-payrolls-unemployment/wsj-graphics-payrolls-unemployment.pbix).
+
+<img width="664" alt="Screenshot (850 corrected)" src="https://github.com/isinkosemen/Power-BI-Deneb/blob/main/wsj-graphics-payrolls-unemployment/Nonfarm%20payrolls.PNG">
+
+<img width="664" alt="Screenshot (850 corrected)" src="https://github.com/isinkosemen/Power-BI-Deneb/blob/main/wsj-graphics-payrolls-unemployment/Unemployment%20rate.PNG">
+
+<img width="664" alt="Screenshot (850 corrected)" src="https://github.com/isinkosemen/Power-BI-Deneb/blob/main/wsj-graphics-payrolls-unemployment/Payrolls%20by%20sector.PNG">
+
 # The Economist's Big Mac Index - Dot Plot Chart With Dynamic Text
 I used Power BI slicers for Base Currency, and Index Period filter options. The rest of the custom visual was built in Deneb with Vega-Lite library.
 I used params to change the color of the points and display the dynamic text when I hover and click on each one of them. The most challenging part 
