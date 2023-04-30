@@ -3,7 +3,7 @@ Here is a collection of my showcases that I built in Power BI with Deneb using V
 Feast your eyes on some of my best work.
 
 # WSJ Graphics - Payrolls and Unemployment
-Here is my recreation of the WSJ graphics about the monthly change of nonfarm payrolls, unemployment rate, and payrolls by sector based on US Labor Department data.
+Here is my re-creation of the WSJ graphics about the monthly change of nonfarm payrolls, unemployment rate, and payrolls by sector based on US Labor Department data.
 
 WSJ original article: [url link](https://www.wsj.com/articles/february-jobs-report-unemployment-rate-economy-growth-2023-e4b1d318?mod=article_inline).
 
