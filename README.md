@@ -6,7 +6,7 @@ Feast your eyes on some of my best work.
 
 I created this data visualization with Vega.
 
-Here is the link for the pbix file for the PBI Deneb view:
+Here is the link for the pbix file for the PBI Deneb view:[url link](https://github.com/isinkosemen/Power-BI-Deneb/tree/main/east-coast-humpback-whales)
 
 <img width="664" alt="Screenshot (850 corrected)" src="https://github.com/isinkosemen/Power-BI-Deneb/blob/main/east-coast-humpback-whales/Australia's%20east%20coast%20humpback%20whales.PNG">
 
