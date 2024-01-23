@@ -2,6 +2,14 @@
 Here is a collection of my showcases that I built in Power BI with Deneb using Vega and Vega-Lite libraries.
 Feast your eyes on some of my best work.
 
+# "East Australian Humpback Whales: Satellite Tag Data Shows Migratory Pathways, Feeding Grounds, and Possible Calving Areas"
+
+I created this dataviz with Vega.
+
+Here is the link for the pbix file for the PBI Deneb view:
+
+<img width="664" alt="Screenshot (850 corrected)" src="https://github.com/isinkosemen/Power-BI-Deneb/blob/main/east-coast-humpback-whales/Australia's%20east%20coast%20humpback%20whales.PNG">
+
 # Unlocking Opportunity With Demand Spaces: Analyzing Consumer Functional Needs 
 Utilizing survey results, I employed factor analysis and a matrix plot visualization in Power BI with Deneb custom visuals to discern distinct patterns in consumers' functional needs, leading to the creation of demand space descriptions enriched with representative titles and images reflecting nuanced survey insights.
 
