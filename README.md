@@ -4,7 +4,7 @@ Feast your eyes on some of my best work.
 
 # East Australian Humpback Whales: Satellite Tag Data Shows Migratory Pathways, Feeding Grounds, and Possible Calving Areas
 
-I created this dataviz with Vega.
+I created this data visualization with Vega.
 
 Here is the link for the pbix file for the PBI Deneb view:
 
