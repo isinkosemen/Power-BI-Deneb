@@ -2,7 +2,7 @@
 Here is a collection of my showcases that I built in Power BI with Deneb using Vega and Vega-Lite libraries.
 Feast your eyes on some of my best work.
 
-# "East Australian Humpback Whales: Satellite Tag Data Shows Migratory Pathways, Feeding Grounds, and Possible Calving Areas"
+# East Australian Humpback Whales: Satellite Tag Data Shows Migratory Pathways, Feeding Grounds, and Possible Calving Areas
 
 I created this dataviz with Vega.
 
