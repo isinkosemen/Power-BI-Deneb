@@ -2,6 +2,14 @@
 Here is a collection of my showcases that I built in Power BI with Deneb using Vega and Vega-Lite libraries.
 Feast your eyes on some of my best work.
 
+# U.S. Assets By Age Groups
+
+Created for 30 Day Chart Challenge 2024 Day 1: Part-to-a-whole
+
+Here is the link for the pbix file: [url link](https://github.com/isinkosemen/Power-BI-Deneb/tree/main/us-assets-by-age-groups)
+
+<img width="664" alt="Screenshot (850 corrected)" src="https://github.com/isinkosemen/Power-BI-Deneb/blob/main/us-assets-by-age-groups/U.S.%20Assets%20by%20Age%20Groups.png">
+
 # East Australian Humpback Whales: Satellite Tag Data Shows Migratory Pathways, Feeding Grounds, and Possible Calving Areas
 
 I created this data visualization to explore Vega event streams and crafting custom legends with a touch of interactivity to the visual experience.
